@@ -1,13 +1,12 @@
+---
 # AASTHA M. SHUKLA
 
----
-##### 🚀 _**Greetings!** I'm Aastha Shukla, an enterprising Software Developer fueled by a relentless passion for innovation. As I prepare to graduate in May 2024, I'm on a quest to find full-time Software Developer roles that not only challenge my coding prowess but also provide an opportunity to lead and collaborate in dynamic tech ecosystems._
+
+#### 🚀 _**Greetings!** I'm Aastha Shukla, an enterprising Software Developer fueled by a relentless passion for innovation. As I prepare to graduate in May 2024, I'm on a quest to find full-time Software Developer roles that not only challenge my coding prowess but also provide an opportunity to lead and collaborate in dynamic tech ecosystems._
+
+##### 📧 [amshukla@syr.edu](mailto:amshukla@syr.edu) | 🔗 [LinkedIn](https://www.linkedin.com/in/aastha-shukla/) | 🌐 [Portfolio](https://aasthas.web.app/) | ☎️ +1 315 766 4567
 
 
----
-📧 [amshukla@syr.edu](mailto:amshukla@syr.edu) | 🔗 [LinkedIn](https://www.linkedin.com/in/aastha-shukla/) | 🌐 [Portfolio](https://aasthas.web.app/) | ☎️ +1 315 766 4567
-
----
 ## 🌟 Introduction
 
 In the ever-evolving world of technology, collaboration is the heartbeat of innovation. I firmly believe that, as Helen Keller once said, *"Alone, we can do so little; together, we can do so much."* My journey has been a testament to the power of teamwork and cross-collaboration.
