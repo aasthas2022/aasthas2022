@@ -1,15 +1,29 @@
-# AASTHA M. SHUKLA
+# Aastha M. Shukla
 
+### Software Engineer | Backend Systems | AI Agents
 
-#### 🚀 _**Greetings!** I'm Aastha Shukla, an enterprising Software Developer fueled by a relentless passion for innovation. As I prepare to graduate in May 2024, I'm on a quest to find full-time Software Developer roles that not only challenge my coding prowess but also provide an opportunity to lead and collaborate in dynamic tech ecosystems. If you're searching for a dynamic Software Developer who not only codes but also leads, collaborates, and innovates, let's connect! Together, we can explore how my skills and passion can drive your organization's tech journey forward._
+I build reliable software for complex, high-volume operations—and I’m now bringing that experience to teams building AI-powered products and workflows.
 
-##### | 📧 [aasthas2022@gmail.com](mailto:aasthas2022@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/aastha-shukla/) | 🌐 [Portfolio](https://aasthas.web.app/) | ☎️ +1 315 766 4567 | [Resume](https://github.com/user-attachments/files/16188448/AasthaShukla_FullStack_Resume.pdf) |
+Over 5 years in software engineering, I’ve worked on logistics and procurement systems processing **17M+ tracking events per day**, supported a platform of **65+ microservices**, and built AI-assisted workflows that help catch data issues before they reach production. I’m strongest at connecting the pieces: backend services, cloud infrastructure, data, and the people who depend on them.
 
-## 🌟 Visitors Count 
+I’m looking for **Software Engineer, Senior Software Engineer, or Forward Deployed Engineer** roles where I can contribute across backend engineering and applied AI. I’m open to relocation.
 
- <img src="https://profile-counter.glitch.me/aasthas2022/count.svg" alt="" />
+📧 [Email](mailto:aasthas2022@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aastha-shukla/) · [Portfolio](https://aasthas.web.app/) · ☎️ +1 315 766 4567
 
- #### Look at that number—(soon to be)amazing, right? Every single visitor on this page, including you, adds a unique value. But don't just scroll by! If my skills and projects resonate with you, why not drop a message or connect on LinkedIn? I love to listen! Let's transform this virtual visit into a real conversation and explore how we can collaborate to create something innovative and impactful together. Your ideas and inquiries are not just welcome; they're eagerly awaited!
+---
 
-## 🏆 Something to keep me accountable:
- [![GitHub Streak](https://streak-stats.demolab.com?user=aasthas2022&theme=dark&hide_border=true)](https://git.io/streak-stats)
+### What I bring
+
+- **Backend engineering:** TypeScript, Node.js, NestJS, REST APIs, microservices, AWS, DynamoDB
+- **AI and agent development:** LangGraph, LangChain, LangSmith, OpenAI API, tool integration, semantic validation, human-in-the-loop workflows
+- **Production problem-solving:** Event-driven systems, data quality, cross-system integrations, observability, and incident response
+
+---
+
+## GitHub activity
+
+![GitHub streak](https://streak-stats.demolab.com?user=aasthas2022&theme=dark&hide_border=true)
+
+## Visitors
+
+<img src="https://profile-counter.glitch.me/aasthas2022/count.svg" alt="Profile visitor count" />
